@@ -26,7 +26,7 @@ y = 0
 [custom_ascii]
 color = "LightMagenta"
 # Uncomment to use your own ASCII art.
-path = "/home/david/.config/macchina/ascii/ubuntu.ascii"
+path = "~/.config/macchina/ascii/ubuntu.ascii"
 
 [randomize]
 key_color = false
